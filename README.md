@@ -1,4 +1,4 @@
-# Gau Pehchan — cattle and buffalo breed recognition
+# Gau Pehchan — Cattle and Buffalo breed recognition
 
 A local web app for uploading or taking a livestock photo and getting a visual breed shortlist. The frontend and backend are served by one Python file, `app.py`. It runs on your computer and sends images to the local service, not a hosted inference API.
 
